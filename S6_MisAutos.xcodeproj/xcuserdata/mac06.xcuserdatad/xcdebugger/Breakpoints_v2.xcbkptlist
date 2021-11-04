@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E163CABA-CC2E-409D-BD93-CD96B65AE73C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "S6_MisAutos/View/ViewControllerHome.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewControllerHome"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - 725c88ab7cfd4e02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.myPageMain.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - aa38ce785d0bafe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.myPageMain.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - 9a9788b97bef51d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.myPageMain.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - b2bf598efcde1f42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.myPageMain.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - 99920c3ee1dc117a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; S6_MisAutos.ViewControllerHome"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "789">
+               </Location>
+               <Location
+                  uuid = "8B487C3E-42F8-411F-817A-282883F7C0B3 - 413ae8f62bf89b7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S6_MisAutos.ViewControllerHome.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;S6_MisAutos.ViewControllerHome&gt;"
+                  moduleName = "S6_MisAutos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac06/Documents/C24_PMA_JASSYRA/S6_MisAutos/S6_MisAutos/View/ViewControllerHome.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D77A326-6CAA-4685-A4A8-AA542AC7731A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "S6_MisAutos/View/ViewControllerHome.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
